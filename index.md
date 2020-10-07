@@ -1,5 +1,5 @@
-RESUME
----<img src="mf.jpg"> 
+MARYAM FAGHANI RESUME
+---<img src="IMG_20201006_220955_325.jpg"> 
 ### Intro
 ---
 + Full name: Maryam Faghani
