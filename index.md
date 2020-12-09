@@ -29,3 +29,5 @@ MARYAM FAGHANI RESUME
 ---
 + Now i am a Bachelors students in computer engineering
 
+
+[رزومه فارسی](/resume-fa)
