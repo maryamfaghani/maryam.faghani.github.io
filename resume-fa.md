@@ -1,6 +1,6 @@
 
  <div dir="rtl">
- <img src="https://github.com/maryamfaghani/maryamfaghani.github.io/blob/gh-pages/IMG_20201006_220955_325.jpg">
+ <img src="IMG_20201006_220955_325.jpg">
  <br>
  درباره من
  <br>
