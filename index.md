@@ -29,5 +29,8 @@ MARYAM FAGHANI RESUME
 ---
 + Now i am a Bachelors students in computer engineering
 
+### phone
+
++ 09332932230
 
 [رزومه فارسی](/resume-fa)
